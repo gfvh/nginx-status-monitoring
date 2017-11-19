@@ -37,7 +37,7 @@ Add these lines to inside server {..} block and after that reload nginx
 
 ```
 
-Installation in the Zabbix Server
+Installation at the Zabbix Server
 ---------------------------------
 
 Look for the external scripts directory in your Zabbix Server configuration file. 
